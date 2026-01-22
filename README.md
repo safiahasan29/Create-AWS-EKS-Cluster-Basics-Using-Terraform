@@ -30,8 +30,6 @@ The repository is designed to help understand **how EKS works under the hood**, 
 - VPC with public and private subnets
 - NAT Gateway for private node outbound access
 
-*(Recommended: add an architecture diagram under `/images/eks-architecture.png`)*
-
 ---
 
 ## Repository Structure
